@@ -30,6 +30,18 @@ module.exports = StyleSheet.create({
   },
   h1:{
     fontSize:22,
-  }
+  },
+  textstyle1:{
+    fontSize:22,
+    color:"blue",
+    textAlign:'center',
+    alignItems:'center',
+    paddingTop:1,
+    justifyContent:'center',
+    borderWidth:2,
+    borderColor:"blue",
+    borderRadius:15,
+    width:30,
+    height:30,
+  },
 });
-
